@@ -2,7 +2,7 @@
 
 # Silah - صلة
 ![Alt Text](Silah.png)
-![silah-logo](https://drive.google.com/file/d/1lnzp4CH0FLJI8OBDGkneIVrsc1U19JsE/view?usp=sharing)
+
 
 
 This repository contains the training script of our solution in the Arabicthon2023 in KSA.
@@ -34,7 +34,7 @@ The main features are :
 
 ## Front:
 
-React app that contains the frontend of the project. you can find it in here: [arabicthon_frontend]()
+React app that contains the frontend of the project. you can find it in here: [https://github.com/mezdourcheima/arabicthon-front]()
 
 ## Backend:
 
